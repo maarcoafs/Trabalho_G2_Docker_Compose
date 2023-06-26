@@ -5,7 +5,7 @@ RA: 1132018
 
 # ScadaBR e MariaDB
 
-O objetivo deste trabalho é implantar o sistema supervisório ScadaBR e o bando de dados MariaDB através do Docker Compose.
+O objetivo deste trabalho é implantar o sistema supervisório ScadaBR e o banco de dados MariaDB através do Docker Compose.
 
 Ao executar o comando docker-compose up, o Docker Compose baixará as imagens necessárias (se ainda não estiverem presentes no sistema) e iniciará os contêineres de acordo com as configurações definidas no arquivo YAML.
 
